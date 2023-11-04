@@ -3,7 +3,7 @@
 A polyfill is a piece of code (usually JavaScript on the Web) used to provide modern functionality on older browsers that do not natively support it.
 
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JJnL1l98--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5z72b8b3smy8bttdx81.png" width="50%"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JJnL1l98--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5z72b8b3smy8bttdx81.png" width="100%"/>
 </div>
 
 
